@@ -1,0 +1,6 @@
+Dobbiamo decidere il tipo di grafo
+1)Vertici? fermate
+2)Archi? se non siamo sicuri orientato, al max facciamo le cose due volte
+  In questo caso il testo ci dice orientato
+3)Grafo semplice o no? multigrafo se voglio tenere tutte le info es tra due vertici ho più archi
+ 
